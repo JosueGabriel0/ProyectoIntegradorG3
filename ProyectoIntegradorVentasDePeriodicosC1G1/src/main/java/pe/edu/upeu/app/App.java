@@ -1,9 +1,6 @@
 package pe.edu.upeu.app;
 import pe.edu.upeu.modelo.ClienteTO;
-/**
- * Hello world!
- *
- */
+
 public class App {
 
     public static ClienteTO cliente[];
