@@ -8,3 +8,4 @@ P7	OJO	Periodico	0.5	0.2	110	Unidad
 P8	Los Andes	Periodico	0.7	0.3	110	Unidad
 P9	Peru21	Periodico	0.7	0.3	110	Unidad
 P12	EL PERUANO	PERIODICO	1.0	0.5	300	UNIDAD
+P13	Exitosa	periodico	2.0	0.5	150	unidad
